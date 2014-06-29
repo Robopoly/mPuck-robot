@@ -1,6 +1,6 @@
 # mPuck
 
-![mPuck](mPuck.png)
+![mPuck](mpuck.png)
 
 ## Introduction
 
